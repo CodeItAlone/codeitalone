@@ -117,7 +117,7 @@ public class Subrato {
 
 > I'm open to collaborations, projects, and opportunities!
 
-📧 **subrato213432@gmail.com** &nbsp;|&nbsp; 📱 **+91 6202322130**
+📧 **subrato213432@gmail.com** &nbsp;|&nbsp;
 
 ---
 
