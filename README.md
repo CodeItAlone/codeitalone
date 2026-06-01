@@ -170,7 +170,7 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
 > Open to collaborations, interesting problems, and ambitious builds.
  
 <div align="center">
-📧 **[subrato213432@gmail.com](mailto:subrato213432@gmail.com)**  ·  🌐 https://subratokundu.in
+📧 subrato213432@gmail.com  ·  🌐 https://subratokundu.in
  
 ---
  
