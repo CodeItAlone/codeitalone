@@ -35,7 +35,7 @@ public class Subrato {
     String   location      = "Jharkhand, India";
  
     String[] currentFocus  = {
-        "Full Stack Dev  →  Spring Boot + Next.js",
+        "Full Stack Dev  →  Spring Boot + Next.js + PostgreSQL",
         "AI & Computer Vision  →  OpenCV, MediaPipe, LLMs",
         "System Design  →  scalable, production-grade APIs"
     };
