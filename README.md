@@ -74,6 +74,7 @@ A fully offline, privacy-first voice assistant that runs 100% on your machine. W
 Full-stack college ecosystem built on **Next.js 16 + Spring Boot 3**. Features Google OAuth2 + JWT auth, real-time WebSocket chat, club/event management, mentor booking, career boards, gamification badges, and Swagger API docs. Deployed on Vercel + Render with a Supabase PostgreSQL backend.
  
 `TypeScript` · `Next.js 16` · `React 19` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Cloudinary` · `SendGrid` · `Docker` · `Framer Motion` · `Zustand` · `StompJS`
+🌐 **[Live →](https://students-connect.vercel.app/)**
  
 ---
  
