@@ -23,7 +23,9 @@
 </div>
 ---
 <div align="center">
-[!Greeting](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Do%20%20I%20%20Know%20%20You??&fontAlignY=40&animation=scaleIn&stroke=black&strokeWidth=5)
+
+<img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Do%20%20I%20%20Know%20%20You??&fontAlignY=40&animation=scaleIn&stroke=black&strokeWidth=5" />
+
 </div>
 ## 🧠 `whoami`
  
