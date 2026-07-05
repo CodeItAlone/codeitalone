@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=First%20%20%Time%20%20Here??&fontAlignY=32&animation=fadeIn&stroke=black&strokeWidth=5&reversal=false&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=First%20%20%Time%20%20Here??&fontAlignY=32&animation=fadeIn&stroke=0d0d0d&strokeWidth=2&reversal=false" />
 
 </div>
 <div align="center">
