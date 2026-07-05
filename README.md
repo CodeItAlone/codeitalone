@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=First%20%20%Time%20%20Here??&fontAlignY=32&animation=fadeIn&stroke=black&strokeWidth=5&reversal=false&fontColor=gradient" />
+
+</div>
+<div align="center">
+
 ```
 
  ██████╗ ██████╗ ██████╗ ███████╗    ██╗████████╗     █████╗ ██╗      ██████╗ ███╗   ██╗███████╗
@@ -22,11 +27,7 @@
  
 </div>
 ---
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Do%20%20I%20%20Know%20%20You??&fontAlignY=40&animation=scaleIn&stroke=black&strokeWidth=5" />
-
-</div>
 ## 🧠 `whoami`
  
 ```java
