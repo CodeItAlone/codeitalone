@@ -140,7 +140,7 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeItAlone&show_icons=true&theme=tokyonight&hide_border=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeItAlone&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=CodeItAlone&layout=compact&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs?username=CodeItAlone&layout=donut-vertical&langs_count=5&theme=dark))
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CodeItAlone&theme=tokyonight&hide_border=true)
  
