@@ -138,7 +138,7 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
  
 <div align="center">
  
-![Subrato's GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeItAlone&show_icons=true&theme=tokyonight&hide_border=true))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeItAlone&show_icons=true&theme=tokyonight&hide_border=true)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeItAlone&layout=compact&theme=tokyonight&hide_border=true)
  
