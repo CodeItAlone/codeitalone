@@ -185,7 +185,7 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
 ---
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=The%20best%20programs%20are%20written%20when%20you're%20supposed%20to%20be%20doing%20something%20else.&fontAlignY=70&animation=fadeIn&stroke=0d0d0d&strokeWidth=2&fontSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient&text=The%20best%20programs%20are%20the%20ones%20written%20when%20the%20programmer%20is%20supposed%20to%20be%20working%20on%20something%20else.&fontSize=15&fontAlignY=70&animation=fadeIn&stroke=0d0d0d&strokeWidth=2"  />
 
 <br><br>
 
