@@ -183,10 +183,14 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
 📧 subrato213432@gmail.com  ·  🌐 https://subratokundu.in
  
 ---
- 
-*"The best programs are the ones written when the programmer is supposed to be working on something else."*
- 
-![Visitor Count](https://komarev.com/ghpvc/?username=CodeItAlone&color=blueviolet&style=flat-square)
- 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=The%20best%20programs%20are%20written%20when%20you're%20supposed%20to%20be%20doing%20something%20else.&fontAlignY=70&animation=fadeIn&stroke=0d0d0d&strokeWidth=2&fontSize=18" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=CodeItAlone&color=blueviolet&style=flat-square" />
+
+</div>
 </div>
  
