@@ -143,9 +143,8 @@ An immersive portfolio that flies you through a **procedurally generated Milky W
  
 <div align="center">
  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeItAlone&show_icons=true&theme=highcontrast&include_all_commits=true)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeItAlone&layout=donut&theme=dark)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeItAlone&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/CodeItAlone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeItAlone&layout=compact&theme=dark)](https://github.com/CodeItAlone)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeItAlone&theme=dark)](https://git.io/streak-stats)
  
