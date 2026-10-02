@@ -51,57 +51,6 @@ public class Subrato {
 }
 ```
  
----
- 
-## 🚀 Featured Projects
- 
-### ✍️ [WritingOnAir](https://github.com/CodeItAlone/WritingOnAir)
-> *A computer vision canvas — no pen, no stylus. Just your hand.*
- 
-Draw, write, and sketch in mid-air using only a webcam. Real-time hand tracking with **OpenCV** + **MediaPipe** converts fingertip movements into digital strokes. Smart shape autocorrect snaps freehand lines into perfect circles, rectangles, and squares. Record sessions as MP4 or snap PNGs.
- 
-`Python` · `OpenCV` · `MediaPipe` · `NumPy`
- 
----
- 
-### 🤖 [A.L.O.N.E.](https://github.com/CodeItAlone/A.L.O.N.E.)
-> *A Local Offline Networked Entity — JARVIS for your laptop.*
- 
-A fully offline, privacy-first voice assistant that runs 100% on your machine. Wake-word detection via `openwakeword`, blazing transcription with **Whisper**, a local **LLaMA 3.2** brain through **Ollama**, and **ChromaDB** semantic memory that remembers you across sessions. Zero cloud. Zero subscriptions. Zero data leaks. PyQt5 holographic HUD included.
- 
-`Python` · `Whisper` · `Ollama / LLaMA 3.2` · `ChromaDB` · `SentenceTransformers` · `PyQt5` · `OpenWakeWord`
- 
----
- 
-### 🎓 [Students-Connect](https://github.com/CodeItAlone/Students-Connect)
-> *One platform for every student — clubs, mentors, events, careers.*
- 
-Full-stack college ecosystem built on **Next.js 16 + Spring Boot 3**. Features Google OAuth2 + JWT auth, real-time WebSocket chat, club/event management, mentor booking, career boards, gamification badges, and Swagger API docs. Deployed on Vercel + Render with a Supabase PostgreSQL backend.
- 
-`TypeScript` · `Next.js 16` · `React 19` · `Spring Boot 3` · `PostgreSQL` · `Supabase` · `Cloudinary` · `SendGrid` · `Docker` · `Framer Motion` · `Zustand` · `StompJS`
-🌐 **[Live →](https://students-connect.vercel.app/)**
- 
----
- 
-### ⚡ [FocusBuddy](https://github.com/CodeItAlone/FocussBuddy)
-> *Accountability-first productivity. No gamification. No mercy.*
- 
-Cross-platform productivity app (Web, iOS, Android from one codebase) built on **React Native + Expo** and a **Spring Boot** REST backend. Timed focus sessions, distraction logging, decay-based streaks that don't hard-reset, and a Tempus-inspired dark/light dashboard. JWT auth + BCrypt security. 107 commits of pure iteration.
- 
-`JavaScript` · `React Native` · `Expo` · `Spring Boot` · `PostgreSQL (H2 dev)` · `JWT` · `BCrypt`
- 
----
- 
-### 🌌 [3D Portfolio](https://github.com/CodeItAlone/3D-portfolio)
-> *Because a flat portfolio is too mainstream.*
- 
-An immersive portfolio that flies you through a **procedurally generated Milky Way galaxy** (19,000+ particles) into a **full 3D solar system**. Built entirely with **Three.js** + Vanilla JS — zero build step, zero bundler. Section-snapped camera, glassmorphism overlay cards, adaptive quality tiers, full keyboard + accessibility support.
- 
-`JavaScript` · `Three.js` · `GSAP` · `CSS3` · `HTML5` · `WebGL`
- 
-🌐 **[Live →](https://portfolio.subratokundu.in/)**
- 
----
  
 ## 🛠️ Tech Stack
  
